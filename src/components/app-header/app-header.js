@@ -1,33 +1,33 @@
 import React from 'react';
 
-import styled from 'styled-components';
+// import styled from 'styled-components';
 
-const Header = styled.div`
-    display: flex;
-    align-items: flex-end;
-    justify-content: space-between;
+// const Header = styled.div`
+//     display: flex;
+//     align-items: flex-end;
+//     justify-content: space-between;
 
-    h1 {
-        font-size: 26px;
-        color: ${props => props.colored ? 'red' : 'black'};
+//     h1 {
+//         font-size: 26px;
+//         color: ${props => props.colored ? 'red' : 'black'};
 
-        : hover {
-            color: blue;       
-        }
-    }
+//         : hover {
+//             color: blue;       
+//         }
+//     }
 
-    h2 {
-        font-size: 1.2rem;
-        color: grey;
-    }
-`
+//     h2 {
+//         font-size: 1.2rem;
+//         color: grey;
+//     }
+// `
 
-const AppHeader = () => {
+const AppHeader = ({liked, allPosts}) => {
     return (
-        <Header>
+        <div className="app-header d-flex">
             <h1>Anton Hevirr</h1>
-            <h2>5 tweets, liked 0</h2>
-        </Header>
+            <h2>{allPosts} tweets, liked {liked}</h2>
+        </div>
     )
 }
 
