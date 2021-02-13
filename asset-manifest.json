@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/ReactStudies-tweet-alike/static/css/main.5b5fa5fe.chunk.css",
+    "main.js": "/ReactStudies-tweet-alike/static/js/main.884a13a7.chunk.js",
+    "main.js.map": "/ReactStudies-tweet-alike/static/js/main.884a13a7.chunk.js.map",
+    "runtime-main.js": "/ReactStudies-tweet-alike/static/js/runtime-main.95447dc5.js",
+    "runtime-main.js.map": "/ReactStudies-tweet-alike/static/js/runtime-main.95447dc5.js.map",
+    "static/css/2.658248ec.chunk.css": "/ReactStudies-tweet-alike/static/css/2.658248ec.chunk.css",
+    "static/js/2.07cc3d64.chunk.js": "/ReactStudies-tweet-alike/static/js/2.07cc3d64.chunk.js",
+    "static/js/2.07cc3d64.chunk.js.map": "/ReactStudies-tweet-alike/static/js/2.07cc3d64.chunk.js.map",
+    "index.html": "/ReactStudies-tweet-alike/index.html",
+    "static/css/2.658248ec.chunk.css.map": "/ReactStudies-tweet-alike/static/css/2.658248ec.chunk.css.map",
+    "static/css/main.5b5fa5fe.chunk.css.map": "/ReactStudies-tweet-alike/static/css/main.5b5fa5fe.chunk.css.map",
+    "static/js/2.07cc3d64.chunk.js.LICENSE.txt": "/ReactStudies-tweet-alike/static/js/2.07cc3d64.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.95447dc5.js",
+    "static/css/2.658248ec.chunk.css",
+    "static/js/2.07cc3d64.chunk.js",
+    "static/css/main.5b5fa5fe.chunk.css",
+    "static/js/main.884a13a7.chunk.js"
+  ]
+}
